@@ -1,4 +1,8 @@
 #pragma once
 
-#include <Windows.h>
+#include <cassert>
+#include <cstdlib>
 #include <iostream>
+#include <vector>
+
+#include <Windows.h>
